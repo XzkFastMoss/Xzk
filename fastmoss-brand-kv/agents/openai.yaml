@@ -1,0 +1,6 @@
+interface:
+  display_name: "FastMoss 品牌 KV"
+  short_description: "制作兼具创意构图与产品表达的 FastMoss 品牌市场物料"
+  icon_large: "./assets/fastmoss-logo.svg"
+  brand_color: "#FE2062"
+  default_prompt: "Use $fastmoss-brand-kv to create a concept-led FastMoss campaign KV with a clear visual hook, product proof, and the approved light pink-purple brand system."
